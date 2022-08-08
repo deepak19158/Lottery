@@ -19,5 +19,3 @@ const deploy = async () => {
   console.log("contract deployed to ", res.options.address);
 };
 deploy();
-
-123;
